@@ -14,3 +14,9 @@ V Pythone nie je najlepší natívny spôsob ako zaručiť to aby sa natívne v 
 ```
 
 Alternatívne, na Windowse pomocou Task Scheduleru.
+
+
+
+## Poznámka
+
+Počas vývoju tohoto projektu API na golemio nešlo, hádzalo 501 error, takže nedá sa úplne overiť či toto je funkčný produkt.
